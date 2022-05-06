@@ -9,7 +9,7 @@ import 'submit_item.dart';
 import 'userPage.dart';
 import 'search.dart';
 
-/* الكلاس الرئيسي للصفحة الرئيسية من خلاله يتم التنقل لبقية الصفحات */
+/* .الكلاس الرئيسي للصفحة الرئيسية من خلاله يتم التنقل لبقية الصفحات */
 void main() {
   runApp(const MyApp());
 }
